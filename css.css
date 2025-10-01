@@ -1,6 +1,6 @@
-*{
-  padding:20vw;
-  margin:4vw;
+
+body{
+  margin:0;
 }
 
 body{
@@ -10,3 +10,4 @@ body{
 footer{
   font-size:5vw;
 }
+
